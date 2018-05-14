@@ -1,13 +1,13 @@
 # Centrality-Measures
 
-##Implementation of Centrality measures from scratch Without Using Networkx
+## Implementation of Centrality measures from scratch Without Using Networkx
 
 ## Centrality Measures:
 
-1)Degree Centrality
-2)Closeness Centrality
-3)Betweenness Centrality
-4)Eigenvector Centrality
+1)Degree Centrality<br/>
+2)Closeness Centrality<br/>
+3)Betweenness Centrality<br/>
+4)Eigenvector Centrality<br/>
 
 ## Input
 Your functions should take as input an adjacency matrix and return a list or vector of centrality values.
